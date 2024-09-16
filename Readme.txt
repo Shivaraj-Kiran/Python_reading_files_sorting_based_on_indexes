@@ -13,7 +13,7 @@ base on the requirement you can change the parameters inside the input section a
 get the output results as it is expected to.
 
 Cons:
-This project will help many guys who are ETL testers and they require to the testing on daily table.
+This project will help many guys who are ETL testers and they require to the test daily .
 Just like This code reads data from flat file and then converts chunks based on indexes and legth given in the input section.
 so that we can get pure DF of extracted_file then we can use the sql-coonector which is again different for different-different tools,
 to connect to python and get results into Dataframe and then finally we can compare the extrected data from file to target data from 
